@@ -1,6 +1,5 @@
 import { Routes, Route, Link } from 'react-router-dom';
 import Home from './pages/Home';
-import ApiPractice from './pages/ApiPractice';
 import Projects from './pages/Projects';
 
 export default function App() {
