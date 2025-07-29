@@ -1,0 +1,51 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# dotenv environment files
+.env
+.env.*.local
+
+# Vite
+/dist
+/.vite
+
+# local build outputs
+/build
+/.cache
+/.output
+
+# testing
+/coverage
+
+# system files
+.DS_Store
+Thumbs.db
+
+# IDE/editor
+.vscode
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Sanity studio
+/cms/.sanity
+/cms/node_modules
+/cms/dist
+
+# Misc
+*.log
+*.tgz
+*.swp
+*.bak
+*.tmp
+*.local
